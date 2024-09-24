@@ -1,0 +1,26 @@
+
+{
+    "descripcion":"noticias",
+    "proyectoDetalle":"Proyecto de gerenciador de noticias para una institución educativa.",
+    "nombreDev":"",
+    "correo":"correo@edu.py",
+    "url":"www.edu.py",
+    "socialLinks":[
+        {
+            "name" : "Facebook",
+            "link" : "https://www.facebook.com/magno.anzoategui",
+            "icon" : "mdi-facebook"
+        },
+        {
+            "name" : "Linkedin",
+            "link" : "https://www.linkedin.com/in/magno-portillo-aaba34125/",
+            "icon" : "mdi-linkedin"
+        },
+        {
+            "name" : "Twitter",
+            "link" : "https://twitter.com/Magzoa",
+            "icon" : "mdi-twitter"
+        }
+    ]
+}
+
