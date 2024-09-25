@@ -26,6 +26,8 @@ export default {
     }
   },
   components: {
+
+    //Este es la inicialización del componente.
     
     inicio
     
