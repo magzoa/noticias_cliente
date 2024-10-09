@@ -1,7 +1,7 @@
 
 # noticias_cliente
 
-## Project setup
+## Project setup  Esto se realiza al inicio
 ```
 npm install
 ```
