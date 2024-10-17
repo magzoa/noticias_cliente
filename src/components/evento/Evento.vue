@@ -1,5 +1,27 @@
 <template>
-  
+  <v-row>
+    <!-- Columna para la imagen -->
+    <v-col   cols="12" sm="6" lg="6"
+    >
+    CARD
+
+    </v-col>
+
+
+     <!-- Columna para la imagen -->
+     <v-col   cols="12" sm="6" lg="6"
+    >
+    CARD
+
+    </v-col>
+
+
+  </v-row>
+
+
+
+
+
 </template>
 
 <script>
