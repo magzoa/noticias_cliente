@@ -79,13 +79,13 @@
   
         <!-- Avatar e información -->
         <v-avatar size="200" class="ma-5">
-          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Juan" />
+          <img src="@/assets/imagenes/desarrolladores/Pamela Corvalan.jpg" alt="Pamela Corvalan" />
         </v-avatar>
   
         <!-- Descripción de la imagen -->
         <div class="text-center">
-          <p class="font-weight-bold">4-Juan</p>
-          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
+          <p class="font-weight-bold">4-Pamela Corvalan</p>
+          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">peraltapamela445@gmail.com</a></p>
         </div>
       </v-col>
 
