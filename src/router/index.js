@@ -22,20 +22,30 @@ const routes = [
     name: 'inicio',
     component: () => import(/* webpackChunkName: "inicio" */ '../views/InicioV.vue')
   	},
+    {
+      path: '/historia',
+      name: 'historia',
+      component: () => import(/* webpackChunkName: "inicio" */ '../views/HistoriaV.vue')
+      },
 	{
     path: '/noticia',
     name: 'noticia',
     component: () => import(/* webpackChunkName: "noticia" */ '../views/NoticiaV.vue')
   	},
+    {
+      path: '/reglamentacion',
+      name: 'reglamentacion',
+      component: () => import(/* webpackChunkName: "noticia" */ '../views/ReglamentacionV.vue')
+      },
 	{
-    path: '/evento',
-    name: 'evento',
-    component: () => import(/* webpackChunkName: "evento" */ '../views/EventoV.vue')
+    path: '/estudiante',
+    name: 'estudiante',
+    component: () => import(/* webpackChunkName: "evento" */ '../views/EstudianteV.vue')
   	},
 	{
-    path: '/informacion',
-    name: 'informacion',
-    component: () => import(/* webpackChunkName: "informacion" */ '../views/InformacionV.vue')
+    path: '/docente',
+    name: 'docente',
+    component: () => import(/* webpackChunkName: "informacion" */ '../views/DocenteV.vue')
   	},
 
   {

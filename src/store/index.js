@@ -8,9 +8,11 @@ export default new Vuex.Store({
     items:[ 
 	// {text:'Usuarios',to:'/usuario',icon:'mdi-account-circle'},
 	 {text:'Inicio',to:'/inicio',icon:'mdi-account-circle'},
-	 {text:'Misión - Vision',to:'/noticia',icon:'mdi-account-circle'},
-	 {text:'Estudiantil',to:'/evento',icon:'mdi-account-circle'},
-	 {text:'Cuerpo Docente',to:'/informacion',icon:'mdi-account-circle'},
+   {text:'Historia',to:'/historia',icon:'mdi-account-circle'},
+	 {text:'Reglamentos',to:'/reglamentacion',icon:'mdi-account-circle'},
+   {text:'Noticias',to:'/noticia',icon:'mdi-account-circle'},
+	 {text:'Estudiantil',to:'/estudiante',icon:'mdi-account-circle'},
+	 {text:'Cuerpo Docente',to:'/docente',icon:'mdi-account-circle'},
       {text:'About',to:'/about',icon:'mdi-account-circle'},
     ] 
   },

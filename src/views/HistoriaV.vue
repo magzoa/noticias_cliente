@@ -5,7 +5,7 @@
 <v-container>
 <v-row>
 <v-col cols="12" sm="12" lg="12">
-   <informacion></informacion>
+   <historia></historia>
 </v-col>
 </v-row>   
 </v-container>
@@ -15,7 +15,7 @@
 
 <script>
 
-import informacion from '@/components/informacion/Informacion.vue';
+import historia from '@/components/historia/Historia.vue';
 
 
 
@@ -27,7 +27,7 @@ export default {
   },
   components: {
     
-    informacion
+    historia
     
   },
 

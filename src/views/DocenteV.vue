@@ -5,7 +5,7 @@
 <v-container>
 <v-row>
 <v-col cols="12" sm="12" lg="12">
-   <evento></evento>
+   <docente></docente>
 </v-col>
 </v-row>   
 </v-container>
@@ -15,7 +15,7 @@
 
 <script>
 
-import evento from '@/components/evento/Evento.vue';
+import docente from '@/components/docente/Docente.vue';
 
 
 
@@ -27,7 +27,7 @@ export default {
   },
   components: {
     
-    evento
+    docente
     
   },
 

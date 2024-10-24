@@ -8,7 +8,7 @@
       <v-col cols="12" sm="12" lg="12">
    
 
-        <usuario></usuario>
+        <inicio></inicio>
 
 
       </v-col>
@@ -18,14 +18,14 @@
  
 <script>
 
-import usuario from "@/views/UsuarioV.vue";
+import inicio from "@/views/InicioV.vue";
 
 export default {
   data() {
     return {};
   },
   components: {
-    usuario
+    inicio
   },
 };
 </script>
