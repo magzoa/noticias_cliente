@@ -101,12 +101,12 @@
         
         <!-- Avatar e información -->
         <v-avatar size="200" class="ma-5">
-          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Juan" />
+          <img src="@/assets/imagenes/desarrolladores/Antonella.jpeg" alt="Juan" />
         </v-avatar>
   
         <!-- Descripción de la imagen -->
         <div class="text-center">
-          <p class="font-weight-bold">5-Juan</p>
+          <p class="font-weight-bold">5-Maria Antonella Ruiz Diaz</p>
           <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
 
           
