@@ -137,13 +137,14 @@
         
         <!-- Avatar e información -->
         <v-avatar size="200" class="ma-5">
-          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Juan" />
+          <img src="@/assets/imagenes/desarrolladores/Veronica Villalba Gea.jpg" alt="Veronica" />
         </v-avatar>
   
         <!-- Descripción de la imagen -->
         <div class="text-center">
-          <p class="font-weight-bold">7-Juan</p>
-          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
+          <p class="font-weight-bold">7-Veronica Villalba</p>
+          <p class="font-weight-bold">Entidad: FACITEC</p>
+          <p class="subtitle-1">Contacto: <a href="mailto:andre@gmail.com">andre@gmail.com</a></p>
 
           
         </div>
