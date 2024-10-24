@@ -53,21 +53,21 @@
 
 <!-- FIN FILA 1 -->
 
-
+<!--diego-->
 
       <!-- Columna para la imagen izquierda -->
       <v-col cols="12" sm="6" lg="6" class="d-flex flex-column justify-center align-center">
         
         <!-- Avatar e información -->
         <v-avatar size="200" class="ma-5">
-          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Juan" />
+          <img src="@/assets/imagenes/desarrolladores/diego.jpeg" alt="Juan" />
         </v-avatar>
   
         <!-- Descripción de la imagen -->
         <div class="text-center">
-          <p class="font-weight-bold">3-Juan</p>
+          <p class="font-weight-bold">3-Diego Paulinho Amarilla Mercado</p>
           <p class="font-weight-bold">Entidad: FACITEC</p>
-          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
+          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">diegoamarilla478@gmail.com</a></p>
 
           
         </div>
@@ -95,19 +95,19 @@
 <!-- FIN FILA 2 -->
 
 
-
-      <!-- Columna para la imagen izquierda -->
+<!--diego-->
+      Columna para la imagen izquierda -->
       <v-col cols="12" sm="6" lg="6" class="d-flex flex-column justify-center align-center">
         
         <!-- Avatar e información -->
         <v-avatar size="200" class="ma-5">
-          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Juan" />
+          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Diego Paulinho Amarilla Mercado" />
         </v-avatar>
   
         <!-- Descripción de la imagen -->
         <div class="text-center">
           <p class="font-weight-bold">5-Juan</p>
-          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
+          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com"></a></p>
 
           
         </div>
