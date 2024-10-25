@@ -7,13 +7,13 @@
 <v-footer
       dark
       padless
-      
     >
       <v-card
         flat
         tile
         class="lighten-1 white--text text-center"
         color="#757575"
+         width="100%"
       >
         <v-card-text>
           <v-btn
@@ -32,7 +32,9 @@
   
         <v-card-text class="white--text pt-0">
     {{ChapterDetails.proyectoDetalle}}
-      <strong> {{ChapterDetails.descripcion}} </strong>  
+      <!-- <strong> {{ChapterDetails.descripcion}} </strong>   -->
+
+     
         
         
         </v-card-text>
