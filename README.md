@@ -23,7 +23,7 @@ See [ Configuration Reference] (https://cli.vuejs.org/config/).
 
 <p align="center">
   <a href="https://youtu.be/hncREriQKYM?si=zxhALNRnTLVuP67Z" target="_blank">
-    <img src="src/assets/imagenes/desarrolladores/youtube.svg" alt="Abrir video en YouTube" width="75%">
+    <img src="src/assets/imagenes/desarrolladores/youtube.svg" alt="Abrir video en YouTube" width="10%">
   </a>
 </p>
 
