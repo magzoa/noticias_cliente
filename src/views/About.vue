@@ -40,7 +40,7 @@
          
         <!-- Avatar e información -->
         <v-avatar size="200" class="ma-5">
-          <img src="@/assets/imagenes/estudiantes/Maycon Gonzalez.jpg" alt="Maycon Gonzalez" />
+          <img src="@/assets/imagenes/desarrolladores/Maycon Gonzalez.jpg" alt="Maycon Gonzalez" />
         </v-avatar>
   
         <!-- Descripción de la imagen -->
@@ -95,45 +95,44 @@
 
 <!-- FIN FILA 2 -->
 
-
-<!--diego-->
-      Columna para la imagen izquierda -->
-      <v-col cols="12" sm="6" lg="6" class="d-flex flex-column justify-center align-center">
+<!-- Columna para la imagen izquierda -->
+<v-col cols="12" sm="6" lg="6" class="d-flex flex-column justify-center align-center">
+      
         
-        <!-- Avatar e información -->
-        <v-avatar size="200" class="ma-5">
+      <!-- Avatar e información -->
+      <v-avatar size="200" class="ma-5">
+        <img src="@/assets/imagenes/desarrolladores/Antonella.jpeg" alt="Juan" />
+      </v-avatar>
 
-          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Diego Paulinho Amarilla Mercado" />
+      <!-- Descripción de la imagen -->
+      <div class="text-center">
+        <p class="font-weight-bold">5-Maria Antonella Ruiz Diaz</p>
+        <p class="font-weight-bold">Entidad: FACITEC</p>
+        <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
 
-
-        </v-avatar>
-  
-        <!-- Descripción de la imagen -->
-        <div class="text-center">
-
-
-          <p class="font-weight-bold">5-Maria Antonella Ruiz Diaz</p>
-          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
-
-
-          
-        </div>
-      </v-col>
-  
-      <!-- Columna para la imagen derecha -->
-      <v-col cols="12" sm="6" lg="6" class="d-flex flex-column justify-center align-center">
         
-        <!-- Avatar e información -->
-        <v-avatar size="200" class="ma-5">
-          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Juan" />
-        </v-avatar>
-  
-        <!-- Descripción de la imagen -->
-        <div class="text-center">
-          <p class="font-weight-bold">6-Juan</p>
-          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
-        </div>
-      </v-col>
+      </div>
+    </v-col>
+
+    
+
+    <!-- Columna para la imagen derecha -->
+    <v-col cols="12" sm="6" lg="6" class="d-flex flex-column justify-center align-center">
+
+
+       
+      <!-- Avatar e información -->
+      <v-avatar size="200" class="ma-5">
+        <img src="@/assets/imagenes/desarrolladores/Juan.jpg" alt="Juan" />
+      </v-avatar>
+
+      <!-- Descripción de la imagen -->
+      <div class="text-center">
+        <p class="font-weight-bold">6-Juan</p>
+        <p class="font-weight-bold">Entidad: Colegio Nacional SDG</p>
+        <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
+      </div>
+    </v-col>
 
 
 <!-- FIN FILA 3 -->
