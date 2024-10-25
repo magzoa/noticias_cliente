@@ -40,14 +40,14 @@
          
         <!-- Avatar e información -->
         <v-avatar size="200" class="ma-5">
-          <img src="@/assets/imagenes/estudiantes/Juan.jpg" alt="Juan" />
+          <img src="@/assets/imagenes/estudiantes/Maycon Gonzalez.jpg" alt="Maycon Gonzalez" />
         </v-avatar>
   
         <!-- Descripción de la imagen -->
         <div class="text-center">
-          <p class="font-weight-bold">2-Juan</p>
+          <p class="font-weight-bold">2-Maycon Gonzalez</p>
           <p class="font-weight-bold">Entidad: Colegio Nacional SDG</p>
-          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">correo@gmail.com</a></p>
+          <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">maycongonzaleztorales@gmail.com</a></p>
         </div>
       </v-col>
 
@@ -85,6 +85,7 @@
         <!-- Descripción de la imagen -->
         <div class="text-center">
           <p class="font-weight-bold">4-Pamela Corvalan</p>
+          <p class="font-weight-bold">Entidad: Colegio Nacional SDG</p>
           <p class="subtitle-1">Contacto: <a href="mailto:correo@gmail.com">peraltapamela445@gmail.com</a></p>
         </div>
       </v-col>
