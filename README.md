@@ -28,7 +28,13 @@ See [ Configuration Reference] (https://cli.vuejs.org/config/).
 </p>
 
 ### Capturas
+https://sites.google.com/view/colegio-nacional-sdg/inicio
 
+Componentes
+https://v2.vuetifyjs.com/en/components/avatars/
+
+CSS
+https://v2.vuetifyjs.com/en/components/avatars/
 
 <p align="center">
   <img src="src/assets/imagenes/desarrolladores/preview.png" alt="Vista previa del proyecto" width="75%">
